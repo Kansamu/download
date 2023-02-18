@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: http://api.oss.bj.kansamu.com/paperland.png
+heroImage: http://api.oss.bj.kansamu.com/paperland256.png
 heroText: PaperLand-绘岛
 tagline: 1.18.2模组生存服开放中
 actionText: 下载客户端
@@ -15,7 +15,7 @@ features:
 footer: Powered 绘岛Studio
 ---
 
-::: tip
+::: tip Java下载
 
 客户端需要Java17环境来运行
 
@@ -25,7 +25,7 @@ footer: Powered 绘岛Studio
 
 ------
 
-::: tip 听一首歌
+::: tip Music
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1994955842&auto=1&height=66"></iframe>
 
