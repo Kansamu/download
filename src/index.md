@@ -10,8 +10,6 @@ features:
     details: 绘岛接纳每一位热爱MC的玩家，并参考玩家建议进行迭代！
   - title: 运营稳定
     details: 绘岛使用自有服务器设备运营，持续运营成本较低，保证长期运营！
-  - title: 原汁原味
-    12details: 绘岛1.18.2至今仍未0禁用，0限制，你可以自由的游玩！
 footer: Powered 绘岛Studio
 ---
 
