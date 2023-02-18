@@ -15,9 +15,8 @@ features:
 footer: Powered 绘岛Studio
 ---
 
-```md
 ::: tip
-当前周目1.18.2需要Java17来支持
-下载：JDK17-Windows-x64
-:::
-```
+
+客户端需要Java17环境来运行
+
+下载：[Java17-Windows-x64](https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/jdk-17.0.6_windows-x64_bin.exe)
