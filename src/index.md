@@ -23,5 +23,10 @@ footer: Powered 绘岛Studio
 
 :::
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1920313842&auto=1&height=66"></iframe>
+------
 
+::: tip 听一首歌
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1994955842&auto=1&height=66"></iframe>
+
+:::
