@@ -3,17 +3,13 @@ module.exports = {
     description: 'Island-Of-Harmony'
   }
 
-  module.exports = {
-    themeConfig: {
-      logo: '/public/favicon.ico',
-    }
-  }
 
-  module.exports = {
+module.exports = {
     themeConfig: {
       nav: [
-        { text: 'External', link: 'https://google.com', target:'_self', rel:'' },
-        { text: 'Guide', link: '/guide/', target:'_blank' }
+        { text: 'Home', link: '/' },
+        { text: 'Guide', link: '/guide/' },
+        { text: 'External', link: 'https://google.com' },
       ]
     }
   }
