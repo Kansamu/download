@@ -4,8 +4,8 @@ module.exports = {
 
     themeConfig: {
       nav: [
-        { text: 'External', link: 'https://google.com', target:'_self', rel:'' },
-        { text: 'Guide', link: '/guide/', target:'_blank' }
+        { text: '绘岛皮肤站', link: 'https://skin.kansamu.com/', target:'_blank' },
+        { text: 'Java17下载', link: '/guide/', target:'_blank' }
       ]
     }
   }
