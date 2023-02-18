@@ -5,7 +5,7 @@ module.exports = {
 
   module.exports = {
     themeConfig: {
-      logo: 'http://api.oss.bj.kansamu.com/paperland.png',
+      logo: '/public/favicon.ico',
     }
   }
 
