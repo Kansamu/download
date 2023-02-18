@@ -15,7 +15,7 @@ features:
 footer: Powered 绘岛Studio
 ---
 
-::: Tip
+::: tip
 
 客户端需要Java17环境来运行
 
