@@ -22,3 +22,6 @@ footer: Powered 绘岛Studio
 下载：[Java17-Windows-x64](https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/jdk-17.0.6_windows-x64_bin.exe)
 
 :::
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1920313842&auto=1&height=66"></iframe>
+
