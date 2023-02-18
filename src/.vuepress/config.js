@@ -5,7 +5,6 @@ module.exports = {
     themeConfig: {
       nav: [
         { text: '绘岛皮肤站', link: 'https://skin.kansamu.com/', target:'_blank' },
-        { text: 'Java17下载', link: '/guide/', target:'_blank' }
       ]
     }
   }
