@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: http://api.oss.bj.kansamu.com/paperland256.png
-heroText: PaperLand-绘岛
+heroText: isCraft-绘岛
 tagline: 1.18.2模组生存服开放中
 actionText: 下载客户端
 actionLink: https://api.oss.bj.kansamu.com/%E7%BB%98%E5%B2%9B1.18.2%E5%AE%A2%E6%88%B7%E7%AB%AFupdata0211.zip
@@ -12,7 +12,7 @@ features:
     details: 稳定运营绝不跑路！
   - title: 🏗️社区运营
     details: 玩家投票新增内容！
-footer: Powered 绘岛Studio
+footer: Powered By 绘岛Studio
 ---
 
 ::: tip Java下载
