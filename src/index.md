@@ -15,9 +15,19 @@ features:
 footer: Powered By 绘岛Studio
 ---
 
-::: tip isCraft-视频展示
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=gb2312"/><link rel="stylesheet" href="../p.css"/>
+<style type="text/css">
+.div_a{ width:100%; height:100px; text-align:center}
+</style>
+</head>
+<body>
+<div class="div_a">
+    <iframe src="https://player.bilibili.com/player.html?aid=992192379&bvid=BV1px4y1w7dG&cid=1016283678&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 640px; height: 430px; max-width: 100%" > </iframe>
+</div>
+</body></html>
 
-<iframe src="//player.bilibili.com/player.html?aid=992192379&bvid=BV1px4y1w7dG&cid=1016283678&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 640px; height: 430px; max-width: 100%"> </iframe>
 
-:::
+
+
 
