@@ -3,13 +3,13 @@ home: true
 heroImage: http://api.oss.bj.kansamu.com/paperland256.png
 heroText: isCraft-绘岛
 tagline: 1.18.2模组生存服开放中
-actionText: 下载客户端
-actionLink: https://api.oss.bj.kansamu.com/%E7%BB%98%E5%B2%9B1.18.2%E5%AE%A2%E6%88%B7%E7%AB%AFupdata0219.zip
+actionText: 马上游玩
+actionLink: /guide/
 features:
   - title: 😉氛围友好
     details: 游戏氛围和谐温馨！
   - title: 🎉长期开放
-    details: 稳定运营绝不跑路！
+    details: 自有主机长期运营！
   - title: 🏗️社区运营
     details: 玩家投票新增内容！
 footer: Powered By 绘岛Studio
@@ -20,13 +20,5 @@ footer: Powered By 绘岛Studio
 客户端需要Java17环境来运行
 
 下载：[Java17-Windows-x64](https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/jdk-17.0.6_windows-x64_bin.exe)
-
-:::
-
-------
-
-::: tip Music
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1994955842&auto=1&height=66"></iframe>
 
 :::
