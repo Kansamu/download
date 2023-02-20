@@ -15,9 +15,9 @@ features:
 footer: Powered By 绘岛Studio
 ---
 
-
+::: tip isCraft-视频展示
 
 <iframe src="//player.bilibili.com/player.html?aid=992192379&bvid=BV1px4y1w7dG&cid=1016283678&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 640px; height: 430px; max-width: 100%"> </iframe>
 
-
+:::
 
