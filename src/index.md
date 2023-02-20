@@ -15,6 +15,10 @@ features:
 footer: Powered By 绘岛Studio
 ---
 
+::: tip isCraft | 一周目
 
+Minecraf版本：1.18.2
 
+开服时间：2023/2/7
 
+:::

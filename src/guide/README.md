@@ -64,7 +64,7 @@ sidebarDepth: 4
 
 
 
-3.Linux系统或Mac系统由于用户较少暂不提供专属客户端下载
+Linux系统或Mac系统由于用户较少暂不提供专属客户端下载
 
 
 
