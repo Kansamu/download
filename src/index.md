@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: http://api.oss.bj.kansamu.com/paperland256.png
+heroImage: /logo.png/
 heroText: isCraft-绘岛
 tagline: 1.18.2模组生存服开放中
 actionText: 马上游玩
@@ -17,8 +17,6 @@ footer: Powered By 绘岛Studio
 
 ::: tip isCraft | 一周目
 
-Minecraf版本：1.18.2
-
-开服时间：2023/2/7
+MC版本：1.18.2 | 开服时间：2023/2/7
 
 :::

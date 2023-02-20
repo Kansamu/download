@@ -5,6 +5,7 @@ module.exports = {
     themeConfig: {
       sidebar: 'auto',
       displayAllHeaders: true,
+      logo: '/assets/img/logo.png',
       nav: [
         { text: '绘岛皮肤站', link: 'https://skin.kansamu.com/', target:'_blank' },
       ]
