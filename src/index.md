@@ -15,10 +15,8 @@ features:
 footer: Powered By 绘岛Studio
 ---
 
-::: tip Java下载
 
-客户端需要Java17环境来运行
 
-下载：[Java17-Windows-x64](https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/jdk-17.0.6_windows-x64_bin.exe)
+<iframe src="//player.bilibili.com/player.html?aid=992192379&bvid=BV1px4y1w7dG&cid=1016283678&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-:::
+
