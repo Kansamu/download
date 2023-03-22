@@ -42,7 +42,7 @@ sidebarDepth: 4
 
 绘岛属于模组服，需要下载专用客户端进行游戏
 
-下载地址： [https://cowtransfer.com/s/5b41b7b6dba943](https://cowtransfer.com/s/5b41b7b6dba943 ) 传输口令 **z3yjr9** 
+下载地址： [https://cowtransfer.com/s/1ff719b337c045](https://cowtransfer.com/s/1ff719b337c045 ) 传输口令 **ypx4j3** 
 
 ::: tip
 
