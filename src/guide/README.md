@@ -42,13 +42,13 @@ sidebarDepth: 4
 
 绘岛属于模组服，需要下载专用客户端进行游戏
 
-下载地址： [https://cowtransfer.com/s/1ff719b337c045](https://cowtransfer.com/s/1ff719b337c045 ) 传输口令 **ypx4j3** 
+下载地址： [https://cowtransfer.com/s/9727f1076e0c41](https://cowtransfer.com/s/9727f1076e0c41 ) 传输口令 **9wh8ba** 
 
 ::: tip
 
-客户端需要Java17进行运行
+客户端需要Java8进行运行，推荐使用8u311版本
 
-下载：[Java17-Windows-x64](https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/jdk-17.0.6_windows-x64_bin.exe)
+下载：[jdk8u311-Windows-x64]([https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/jdk-17.0.6_windows-x64_bin.exe](https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/jdk-8u311-windows-x64.exe))
 
 :::
 
@@ -64,7 +64,7 @@ sidebarDepth: 4
 
 
 
-Linux系统或Mac系统由于用户较少暂不提供专属客户端下载
+Linux系统或Mac系统请将启动器后缀名由.exe修改为.jar即可
 
 
 
@@ -72,5 +72,21 @@ Linux系统或Mac系统由于用户较少暂不提供专属客户端下载
 
 :::
 
+### 5.最终用户协议
+
+::: warning
+
+绘岛客户端运行时可能会收集如下信息, 并在进入服务器时上传, 所有数据由管理员保管和处理
+- IP地址
+- 游戏用户名
+- 硬件设备信息与识别信息(如硬件序列号/加密脱敏处理的QQ号)
+- 操作系统相关的信息
+- 操作系统相关的文件信息与内存信息
+- 与运行的进程、驱动以及其他可执行代码相关的信息
+- 此处所列其他信息中的文件名，可能还会包含你的操作系统用户名
+- 如特殊情况，您的游戏窗口将可能会被截图
+
+绘岛客户端遵循数据最小化政策, 确保旨在必要时保存相关数据(比如检测到相关信息表明用户可能使用作弊软件), 在伴随游戏运行的整个过程中客户端可能都会保存信息.
+可联系绘岛管理员对此数据处理行使你的权利.
 ------
 
