@@ -42,7 +42,9 @@ sidebarDepth: 4
 
 绘岛属于模组服，需要下载专用客户端进行游戏
 
-下载地址： [https://cowtransfer.com/s/618eb02e494948](https://cowtransfer.com/s/618eb02e494948) 
+当前最新版本为 **updata0410** 更新于2023/04/10
+
+下载地址： [https://cowtransfer.com/s/fdefc60d990449](https://cowtransfer.com/s/fdefc60d990449) 
 ::: tip
 
 客户端需要Java8进行运行，推荐使用8u311版本游玩
