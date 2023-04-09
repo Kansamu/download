@@ -48,7 +48,7 @@ sidebarDepth: 4
 
 客户端需要Java8进行运行，推荐使用8u311版本
 
-下载：[jdk8u311-Windows-x64]([https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/jdk-17.0.6_windows-x64_bin.exe](https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/jdk-8u311-windows-x64.exe))
+下载：[jdk8u311-Windows-x64](https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/jdk-8u311-windows-x64.exe)
 
 :::
 
