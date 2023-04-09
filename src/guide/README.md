@@ -46,7 +46,7 @@ sidebarDepth: 4
 
 ::: tip
 
-客户端需要Java8进行运行，推荐使用8u311版本
+客户端需要Java8进行运行，推荐使用8u311版本游玩
 
 下载：[jdk8u311-Windows-x64](https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/jdk-8u311-windows-x64.exe)
 
